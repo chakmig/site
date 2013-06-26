@@ -1,19 +1,18 @@
 ---
+published: true
 layout: bffos
 title: Contribute
 root: root
 h1: Contribute to this page
-h2: <strong>Contribute:</strong> Help us improve our content
+h2: "<strong>Contribute:</strong> Help us improve our content"
 ---
 
 ##### This site is hosted in github, so first thing: **how good are you at github?**
 
-* [I have never heard of github before](#noidea)
-* [I just have a github account](#account)
-* [I have some knowledge](#knowledge)
-* [I'm a github expert](#expert)
+* [I don´t have a github account](#noaccount)
+* [I have a github account](#account)
 
-<a name="noidea"></a>
+<a name="noaccount"></a>
 
 ### Signing up for a new GitHub account
 Go to [github](https://github.com/) an fill the form (it will take you 30 seconds).
@@ -31,5 +30,3 @@ Go to [github](https://github.com/) an fill the form (it will take you 30 second
 * Bowse to the file you want to modify and click the 'edit' button next to it.
 * (Need to see how PR works there!) 
 
-##### Editing the pro way:
-  * more steps to come :)
